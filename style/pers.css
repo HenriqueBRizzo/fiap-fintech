@@ -1,0 +1,17 @@
+body{
+    background-color: grey;
+}
+.bg-personalite{
+    background-color: black;
+}
+.formulario{
+    background-color: dimgray;
+    width: 30%;
+    border: 1px solid lightgrey;
+    padding: 0 15px;
+    border-radius: 10px;
+}
+.rounded{
+    width: 20%;
+    padding: 15px;
+}
